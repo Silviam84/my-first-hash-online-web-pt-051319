@@ -1,7 +1,9 @@
 require_relative 'spec_helper'
 require_relative '../my_first_hash.rb'
 
-my_hash { my love's 
+my_hash { "my love's" => My son's }
+
+
 
 
 context "Challenge I: Instantiating Hashes" do
